@@ -2,3 +2,4 @@
 
 echo "hello"
 echo "world"
+echo "hello"
